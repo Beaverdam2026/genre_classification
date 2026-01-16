@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/mlruns/0/b5f0c68251ac49fa82b30cff04db276a/artifacts
+end_time: 1768586181052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5f0c68251ac49fa82b30cff04db276a
+run_name: rebellious-fawn-446
+run_uuid: b5f0c68251ac49fa82b30cff04db276a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768586138434
+status: 4
+tags: []
+user_id: teratron7

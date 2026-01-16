@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/mlruns/0/81562f155f7e4b9d970d729252313e48/artifacts
+end_time: 1768587366381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81562f155f7e4b9d970d729252313e48
+run_name: salty-asp-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768587359298
+status: 3
+tags: []
+user_id: teratron7

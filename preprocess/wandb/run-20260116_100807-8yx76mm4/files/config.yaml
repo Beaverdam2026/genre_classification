@@ -1,0 +1,43 @@
+_wandb:
+    value:
+        cli_version: 0.21.3
+        e:
+            wqb0mcm0343rl5tnmhuhnqbn04ojkwkk:
+                args:
+                    - --input_artifact
+                    - raw_data.parquet:latest
+                    - --artifact_name
+                    - preprocessed_data.csv
+                    - --artifact_type
+                    - preprocessed_data
+                    - --artifact_description
+                    - Data with preprocessing applied
+                codePath: preprocess/run.py
+                codePathLocal: run.py
+                cpu_count: 8
+                cpu_count_logical: 16
+                disk:
+                    /:
+                        total: "1006450962432"
+                        used: "182929330176"
+                email: yellowgem12345@gmail.com
+                executable: /home/teratron7/miniconda3/envs/mlflow-428f3442275814dbf6350cf02d74496ce6bae3ac/bin/python
+                git:
+                    commit: e9d625475394274752d5170613a2016e526581d1
+                    remote: https://github.com/Beaverdam2026/genre_classification.git
+                host: JackPenguin
+                memory:
+                    total: "33533599744"
+                os: Linux-6.14.0-37-generic-x86_64-with-glibc2.39
+                program: /mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/preprocess/run.py
+                python: CPython 3.13.11
+                root: /mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/preprocess
+                startedAt: "2026-01-16T18:08:07.967605Z"
+                writerId: wqb0mcm0343rl5tnmhuhnqbn04ojkwkk
+        m: []
+        python_version: 3.13.11
+        t:
+            "4": 3.13.11
+            "5": 0.21.3
+            "12": 0.21.3
+            "13": linux-x86_64

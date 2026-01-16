@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/mlruns/0/2b6ef842496448b39dfa7762ad6548a7/artifacts
+end_time: 1768586569099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b6ef842496448b39dfa7762ad6548a7
+run_name: silent-lark-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768586540194
+status: 3
+tags: []
+user_id: teratron7

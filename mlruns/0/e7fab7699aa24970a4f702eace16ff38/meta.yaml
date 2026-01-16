@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/mlruns/0/e7fab7699aa24970a4f702eace16ff38/artifacts
+end_time: 1768586780200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7fab7699aa24970a4f702eace16ff38
+run_name: resilient-colt-802
+run_uuid: e7fab7699aa24970a4f702eace16ff38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768586756585
+status: 4
+tags: []
+user_id: teratron7

@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/mlruns/0/403e0f15524a4b2580a3aabe58bd85d3/artifacts
+end_time: 1768587716005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 403e0f15524a4b2580a3aabe58bd85d3
+run_name: whimsical-jay-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768587693496
+status: 3
+tags: []
+user_id: teratron7

@@ -1,0 +1,42 @@
+{
+  "os": "Linux-6.14.0-37-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.13.11",
+  "startedAt": "2026-01-16T18:16:26.141357Z",
+  "args": [
+    "--train_data",
+    "data_train.csv:latest",
+    "--model_config",
+    "/mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/outputs/2026-01-16/10-15-52/random_forest_config.yml",
+    "--export_artifact",
+    "model_export",
+    "--random_seed",
+    "42",
+    "--val_size",
+    "0.3",
+    "--stratify",
+    "genre"
+  ],
+  "program": "/mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/random_forest/run.py",
+  "codePath": "random_forest/run.py",
+  "codePathLocal": "run.py",
+  "git": {
+    "remote": "https://github.com/Beaverdam2026/genre_classification.git",
+    "commit": "e9d625475394274752d5170613a2016e526581d1"
+  },
+  "email": "yellowgem12345@gmail.com",
+  "root": "/mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/random_forest",
+  "host": "JackPenguin",
+  "executable": "/home/teratron7/miniconda3/envs/mlflow-a3629828cd971ffe646011f938d3373bb5d5ef95/bin/python",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "1006450962432",
+      "used": "184122998784"
+    }
+  },
+  "memory": {
+    "total": "33533599744"
+  },
+  "writerId": "bjwx3kjdu5z4qtcheya3mf7jd8bbgzfn"
+}

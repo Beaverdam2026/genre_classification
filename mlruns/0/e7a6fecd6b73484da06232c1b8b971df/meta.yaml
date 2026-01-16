@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/mlruns/0/e7a6fecd6b73484da06232c1b8b971df/artifacts
+end_time: 1768587672597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7a6fecd6b73484da06232c1b8b971df
+run_name: enchanting-owl-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768587663738
+status: 3
+tags: []
+user_id: teratron7

@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/mlruns/0/dee9ea4fa4d14f9a966b207b8221df09/artifacts
+end_time: 1768586900231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dee9ea4fa4d14f9a966b207b8221df09
+run_name: traveling-dove-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768586892337
+status: 3
+tags: []
+user_id: teratron7

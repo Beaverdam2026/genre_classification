@@ -1,0 +1,37 @@
+{
+  "os": "Linux-6.14.0-37-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.13.11",
+  "startedAt": "2026-01-16T18:21:15.362838Z",
+  "args": [
+    "-s",
+    "-vv",
+    ".",
+    "--reference_artifact",
+    "exercise_14/preprocessed_data.csv:latest",
+    "--sample_artifact",
+    "preprocessed_data.csv:latest",
+    "--ks_alpha",
+    "0.05"
+  ],
+  "program": "/home/teratron7/miniconda3/envs/mlflow-8b8c5bbbcf30a4f621fb194c7af489e467ffbbf1/bin/pytest",
+  "git": {
+    "remote": "https://github.com/Beaverdam2026/genre_classification.git",
+    "commit": "bf005e14d6852c86d51ce36960c66a1d5c016e89"
+  },
+  "email": "yellowgem12345@gmail.com",
+  "root": "/mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/check_data",
+  "host": "JackPenguin",
+  "executable": "/home/teratron7/miniconda3/envs/mlflow-8b8c5bbbcf30a4f621fb194c7af489e467ffbbf1/bin/python3.13",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "1006450962432",
+      "used": "184159825920"
+    }
+  },
+  "memory": {
+    "total": "33533599744"
+  },
+  "writerId": "t5qkz7g82tg3kqoewea34k9kyjorpd45"
+}

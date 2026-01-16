@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/mlruns/0/98251cbe2eb84f99b4328ae1ddb1161d/artifacts
+end_time: 1768587725873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98251cbe2eb84f99b4328ae1ddb1161d
+run_name: masked-gnat-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768587716011
+status: 3
+tags: []
+user_id: teratron7

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/68247ae7-a5d8-49e0-872f-08b1f10c1374/WGU_Documents/Term5/D501/genre_classification/mlruns/0/12150326bff14dcb80f45c3cad83c5d9/artifacts
+end_time: 1768587726025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12150326bff14dcb80f45c3cad83c5d9
+run_name: judicious-pug-700
+run_uuid: 12150326bff14dcb80f45c3cad83c5d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768587652169
+status: 3
+tags: []
+user_id: teratron7
